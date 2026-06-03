@@ -11,11 +11,6 @@ As AI adoption grows rapidly, understanding how people use AI, the benefits they
 ## Dashboard Preview
 <img width="1385" height="781" alt="image" src="https://github.com/user-attachments/assets/bb5c829d-5b5f-42ec-9975-61f60b2ce5f1" />
 
-## 🔗 Project Resources
-
-📝 AI Adoption Survey:
-https://forms.gle/NkJcHu4skV2NC9Rz7
-
 ## Key Insights
 
 - 94% AI adoption rate

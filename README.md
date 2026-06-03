@@ -41,11 +41,11 @@ As AI adoption grows rapidly, understanding how people use AI, the benefits they
 ## Data Flow
 
 Google Forms
-      ↓
+      →
 Google Sheets
-      ↓
+      →
 Power BI
-      ↓
+      →
 Real-Time Insights Dashboard
 
 ## Author
